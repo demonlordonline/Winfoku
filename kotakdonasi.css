@@ -1,8 +1,8 @@
 /* Paypal Donation Box Bounce by winfoku*/
 .winfokuDonasi {background:#0EB1F0; /* warna background */
-  color:#000;
+  color:#ffffff;
   display:-webkit-box; display:-webkit-flex; display:-moz-box; display:-ms-flexbox; display:flex; align-items:flex-start; flex-wrap:nowrap; justify-content:center; margin:20px 0px; display:flex; padding:15px; overflow:hidden; transition:all .3s ease; border-radius:7px;}
-.winfokuDonasi .ikon a {background-color:#0088bd; /* warna ikon */
+.winfokuDonasi .ikon a {background-color:#00a6ff; /* warna ikon */
   color:#fff;
   text-decoration:none; display:block; padding:5px; border-radius:7px; text-align:center; -webkit-animation:winfokuBounce 1s linear 1s infinite normal; animation:winfokuBounce 1s linear 1s infinite normal}
 .winfokuDonasi svg {width:50px; height:50px}
